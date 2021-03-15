@@ -5,7 +5,7 @@ import SEO from "../components/seo"
 
 const IndexPage = () => (
   <Layout>
-    <SEO title="Hey I ship that Me too" />
+    <SEO title="Hold on to your butts" />
     <img src="/holdontoyourbutts.gif" alt="holdontoyourbutts.xyz" />
   </Layout>
 )
